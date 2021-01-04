@@ -39,7 +39,7 @@ Projeto desenvolvido durante a finalização do curso de **React.Js** promovido 
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/web.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/web.png" width="1000px">
 </p>
 
 ---

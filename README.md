@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/banner.png" />
+    <img alt="Banner" title="Banner" src="./.github/banner.png" />
 </h1>
 
 <h4 align="center"> 
@@ -39,7 +39,7 @@ Projeto desenvolvido durante a finalização do curso de **React.Js** promovido 
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/web.png" width="1000px">
+  <img alt="Layout" title="Layout" src="./.github/web.png" width="1000px">
 </p>
 
 ---

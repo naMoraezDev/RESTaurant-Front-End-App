@@ -57,13 +57,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/Ecoleta-Full-Stack-App.git
+$ git clone https://github.com/naMoraezDev/RESTaurant-Front-End-App.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Ecoleta-Full-Stack-App-main
-
-# Vá para a pasta da aplicação Front End
-$ cd frontend
+$ cd RESTaurant-Front-End-App-main
 
 # Instale as dependências
 $ npm install
